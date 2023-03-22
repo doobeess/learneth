@@ -2,7 +2,7 @@ import os
 import json
 import sys
 
-def cls(): os.system('cls' if os.name in ['nt, dos'] else 'clear')
+def cls(): os.system(['clear', 'cls'][os.name in ('nt', 'dos')])
 
 def getKeys(dic):
     return [*dic]
