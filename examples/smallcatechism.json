@@ -1,0 +1,136 @@
+{
+    "The Ten Commandments": {
+        "First Commandment": {
+            "What is the First Commandment?": "Thou shalt have no other gods before Me.",
+            "What does this mean?": "We should fear, love, and trust in God above all things."
+        },
+        "Second Commandment": {
+            "What is the Second Commandment?": "Thou shalt not take the name of the Lord, thy God, in vain.",
+            "What does this mean?": "We should fear and love God that we may not curse, swear, use witchcraft, lie, or decieve by His name, but call upon it in every trouble, pray, praise, and give thanks."
+        },
+        "Third Commandment": {
+            "What is the Third Commandment?": "Remember the Sabbath day, to keep it holy.",
+            "What does this mean?": "We should fear and love God that we may not despise preaching and his Word, but hold it sacred and gladly hear and learn it."
+        },
+        "Fourth Commandment": {
+            "What is the Fourth Commandment?": "Thou shalt honor thy father and thy mother, that it may be well with thee, and thou mayest live long on the earth.",
+            "What does this mean?": "We should fear and love God that we may not despise our parents and masters, nor provoke them to anger, but give them honor, serve and obey them, and hold them in love and esteem."
+        },
+        "Fifth Commandment": {
+            "What is the Fifth Commandment?": "Thou shalt not kill.",
+            "What does this mean?": "We should fear and love God that we may not hurt nor harm our neighbor in his body, but help and befriend him in every bodily need."
+        },
+        "Sixth Commandment": {
+            "What is the Sixth Commandment?": "Thou shalt not commit adultery.",
+            "What does this mean?": "We should fear and love God that we may lead a chaste and decent life in word and deed, and each love and honor his spouse."
+        },
+        "Seventh Commandment": {
+            "What is the Seventh Commandment?": "Thou shalt not steal.",
+            "What does this mean?": "We should fear and love God that we may not take our neighbor's money or goods, nor get them by false ware or dealing, but help him to improve and protect his proprety and buisness."
+        },
+        "Eighth Commandment": {
+            "What is the Eighth Commandment?": "Thou shalt not bear false witness against thy neighbor.",
+            "What does this mean?": "We should fear and love God that we may not decietfully belie, betray, slander, nor defame our neighbor, but defend him, speak well of him, and put the best construction on everything."
+        },
+        "Ninth Commandment": {
+            "What is the Ninth Commandment?": "Thou shalt not covet thy neighbor's house.",
+            "What does this mean?": "We should fear and love God that we may not craftily seek to get our neighbor's inheritance or house, nor obtain it by a show of right, but help and be of service to him in keeping it."
+        },
+        "Tenth Commandment": {
+            "What is the Tenth Commandment?": "Thou shalt not covet thy neighbor's wife, nor his manservant, nor his maidservant, nor his cattle, nor anything that is thy neighbor's.",
+            "What does this mean?": "We should fear and love God that we may not estrange, force, or entice away from our neighbor his wife, servants, or cattle, but urge them to stay and do their duty."
+        },
+        "The Close of the Commandments": {
+            "What does God say of all these Commandments?": "He says thus: I, the Lord, thy God, am a a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate Me, and showing mercy unto thousands of them that love Me and keep My commandments.",
+            "What does this mean?": "God threatens to punish all that transgress these Commandments. Therefore we should fear His wrath and not act contrary to them. But he promises grace and every blessing to all that keep these Commandments. Therefore we should also love and trust in Him and willingly do according to His Commandments."
+        }
+    },
+    "The Apostle's Creed": {
+        "The First Article": {
+            "What is the First Article?": "I believe in God the Father Almighty, Maker of heaven and earth.",
+            "What does this mean?": "I believe that God has made me and all creatures; that he has given me my body and soul, eyes, ears, and all my members, my reason and all my senses, and still preserves them; also clothing and shoes, meat and drink, house and home, wife and children, fields, cattle, and all my goods; that He richly and daily provides me with all that I need to support this body and life; that He defends me against all danger, and guards and protects me from all evil; and all this purely out of fatherly, divinge goodness and mercy, without any merit or worthiness in me; for all which it is my duty to thank and praise, serve and obey Him. This is most certainly true."
+        },
+        "The Second Article": {
+            "What is the Second Article?": "And in Jesus Christ, His only Son, our Lord, who was conceived by the Holy Ghose, born of the Virgin Mary, suffered under Pontious Pilate, was crucified, dead, and buried; He descended into hell; the third day He rose again from the dead; He ascended into heaven; and sitteth on the right hand of God the Father Almighty; from thence He shall come to judge the quick and the dead.",
+            "What does this mean?": "I believe that Jesus Christ, true God, begotten of the Father from eternity, and also true man"
+        },
+        "The Third Article": {
+            "What is the Third Article?": "I believe in the Holy Ghost; the holy Christian Church, the communion of saints; the forgiveness of sings; the resurrection of the body; and the life everlasting. Amen.",
+            "What does this mean?": "I believe that I cannot by my own reason or strength believe in Jesus Christ, my Lord, or come to Him; but the Holy Ghost has called me by the Gospel, enlightened me with His gifts, sanctified and kept me in the true faith; even as he calls, gathers, enlightens, and sanctifies the whole Christian Church on earth, and keeps it with Jesus Christ in the one true faith; in which Christian Church he daily and richly forgives the sins to me and all believers, and will at the Last Day raise up me and all the dead, and give unto me and all believers in Christ eternal life. This is most certainly true."
+        }
+    },
+    "The Lord's Prayer": {
+        "The Introduction": {
+            "What is the Introduction?": "Our Father who art in heaven.",
+            "What does this mean?": "God would by these words tenderly invite us to believe that He is our true Father, and that we are Hist true children, so that we may with all boldness and confidence ask Him as dear children ask their dear father."
+        },
+        "The First Petition": {
+            "What is the First Petition?": "Hallowed be thy name.",
+            "What does this mean?": "God's name is indeed holy in itself; but we pray in this petition that it may be holy among us also.",
+            "How is this done?": "When the Word of God is taught in its truth and purity, and we, as the children of God, also lead a holy life according to it. This grant us, dear Father in heaven. But he that teaches and lives otherwise than God's Word teaches, profanes the name of God among us. From this preserve us, Heavenly Father."
+        },
+        "The Second Petition": {
+            "What is the Second Petition?": "Thy kingdom come.",
+            "What does this mean?": "The kingdom of God comes indeed without our prayer, or itself; but we pray in this petition that it may come unto us also.",
+            "How is this done?": "When our heavenly Father gives us His Holy Spirit, so that by His grace we believe His holy Word and lead a godly life, here in time and hereafter in eternity."
+        },
+        "The Third Petition": {
+            "What is the Third Petition?": "Thy will be done on earth as it is in heaven.",
+            "What does this mean?": "The good and gracious will of God is done indeed without our prayer; but we pray in this petition that it may be done among us also.",
+            "How is this done?": "When God breaks and hinders every evil counsel and will which would not let us hallow God's name nor let His kingdom come, such as the will of the devil, the world, and flest, but strengthens and preserves us steadfast in His Word and faith unto our end. This is is gracious and good will."
+        },
+        "The Fourth Petition": {
+            "What is the Fourth Petition?": "Give us this day our daily bread.",
+            "What does this mean?": "God gives daily bread indeed without our prayer, also to all the wicked; but we pray in this petition that He would lead us to know it, and to receive our daily bread with thanksgiving.",
+            "What is meant by daily bread?": "Everything that belongs to the support and wants of the body, such as food, drink, clothing, shoes, house, home, field, cattle, money, goods, a pious spouse, pious children, pious servants, pious and faithful rulers, good government, good weather, peace, health, discipline, honor, good friends, faithful neighbors, and the like."
+        },
+        "The Fifth Petition": {
+            "What is the Fifth Petition?": "And forgive us our trespasses, as we forgive those who trespass against us.",
+            "What does this mean?": "We pray in this petition that our Father in heaven would not look upon our sins, nor on their account deny our prayer; for we are worthy of none of the things for which we pray, neither have we deserved them; but that He would grant them all to us by grace; for we daily sin much and indeed deserve nothing but punishment. So will we also heartily forgive, and readily do good to, those who sin against us."        
+        },
+        "The Sixth Petition": {
+            "What is the Sixth Petition?": "And lead us not into temptation.",
+            "What does this mean?": "God indeed tempts no one; but we pray in this petition that God would guard and keep us, so that the devil, the world, and our flesh may not deceive us nor seduce us into misbelief, despair, and other great shame and vice; and though we be assailed by them, that still we may finally overcome and obtain the victory."
+        },
+        "The Seventh Petition": {
+            "What is the Seventh Petition?": "But deliver us from evil.",
+            "What does this mean?": "We pray in this petition, as the sum of all, that our Father in heaven would deliver us from every evil of body and soul, property and honor, and finally, when our last hour has come, grant us a blessed end, and graciously take us from the vale of tears to Himself in heaven."
+        },
+        "The Conclusion": {
+            "What is the Conclusion?": "For Thine is the kingdom and the power and the glory forever and ever. Amen.",
+            "What is meant by the word \"amen\"?": "That I should be certain that these petitions are acceptable to our Father in heaven, and are heard by Him; for He Himself has commanded us so to pray, and has promised to hear us. Amen, Amen, that is, Yea, yea, it shall be so."
+        }
+    },
+    "The Sacrament of Holy Baptism": {
+        "I. The nature of Baptism": {
+            "What is Baptism?": "Baptism is not simple water only, but it is the water comprehended in God's command and connected with God's word.",
+            "Which is that word of God?": "Christ, our Lord, says in the last chapter of Matthew: Go ye and teach all nations, baptizing them in the name of the Father and of the Son and of the Holy Ghost."
+        },
+        "II. The blessings of Baptism": {
+            "What does Baptism give or profit?": "It works forgiveness of sins, delivers from death and the devil, and gives eternal salvation to all who believe this, as the words and promises of God declare.",
+            "Which are such words and promises of God?": "Christ, our Lord, says in the last chapter of Mark: He that believeth and is baptized shall be saved; but he that believeth not shall be damned."
+        },
+        "III. The power of Baptism": {
+            "How can water do such great things?": "It is not the water indeed that does them, but the word of God which is in and with the water, and faith, which trusts such word of God in the water. For without the word of God the water is simple water and no Baptism. But with the word of God it is a Baptism, that is, a gracious water of life, and a washing of regeneration in the Holy Ghost, as St. Paul says, Titus, chapter third: [According to His mercy He saved us] by the washing of regeneration and renewing of the Holy Ghost, which He shed on us abundantly through Jesus Christ, our Savior, that, being justified by His grace, we should be made heirs according to the hope of eternal life. This is a faithful saying."
+        },
+        "IV. The significance of baptizing with water": {
+            "What does such baptizing with water signify?": "It signifies that the Old Adam in us should, by daily contrition and repentance, be drowned and die with all sins and evil lusts and, again, a new man daily come forth and arise, who shall live before God in righteousness and purity forever.",
+            "Where is this written?": "St. Paul writes, Romans, chapter sixth: We are buried with Christ by Baptism into death, that, like as He was raised up from the dead by the glory of the Father, even so we also should walk in newness of life."
+        }
+    },
+	 "The Office of the Keys and Confession": {
+	   "What is the Office of the Keys?": "It is the peculiar church power which Christ has given to his Church on earth to forgive the sins of penitent sinners, but to retain the sins of the impenitent as long as they do not repent.",
+		"Where is this written?": "Thus writes the holy Evangelist John, chapter twentieth: The Lord Jesus breathed on His disciples and sayeth unto them, Receive ye the Holy Ghost. Whosoever sins ye remit, they are remitted unto them; and whosoever sins ye retain, they are retained.",
+		"What do you believe according to these words?": "I believe that, when the called ministers of Christ deal with us by His divine command, especially when they exclude manifest and impenitent sinners from the Christian congregation, and, again, when they absolve those who repent of their sins and are willing to amend, this is as valid and certain, in heaven also, as if Christ, our dear Lord, dealt with us Himself.",
+		"What is Confession?": "Confession embraces two parts. One is that we confess our sins; the other, that we receive absolution, that is forgiveness, from the pastor as from God Himself, and in no wise doubt, but firmly believe, that by it our sins are forgiven before God in heaven.",
+		"What sins should we confess?": "Before God we should plead guilty of all sins, even of those which we do not know, as we do in the Lord's Prayer; but before the pastor we should confess only those sins which we know and feel in our hearts.",
+		"Which are these?": "Here consider your station according to the Ten Commandments, whether you are a father, mother, son, daughter, master, mistress, or servant; whether you have grieved any person by word or deed, whether you have stolen, been negligent, or wasted aught, or done other injury."
+	 },
+	 "The Sacrament of the Altar": {
+	   "What is the Sacrament of the Altar?": "It is the true body and blood of our Lord Jesus Christ, under the bread and wine, for us Christians to eat and to drink, instituted by Christ Himself.",
+		"Where is this written?": "The holy Evangelists Matthew, Mark, Luke, and St. Paul [the Apostle] write thus: Our Lord Jesus Christ, the same night in which He was betrayed, took bread; and when He had given thanks, He brake it and gave it to His disciples, saying, Take, eat; this is My body, which is given for you. This do in remembrance of Me. After the same manner also He took the cup when He had supped, and when He had given thanks, He gave it to them, saying, Drink ye all of it; this cup is the new testament in My blood, which is shed for you for the remission of sins. This do, as oft as ye drink it, in remembrance of me.",
+		"What is the benefit of such eating and drinking?": "That is shown us by these words, 'Given and shed for you for the remission of sins'; namely, that in the Sacrament forgiveness of sins, life, and salvation are given us through these words. For where there is forgiveness of sins, there is also life and salvation.",
+		"How can bodily eating and drinking do such great things?": "It is not the eating and drinking indeed that does them, but the words here written, 'Given and shed for you for the forgiveness of sins'; which words, besides the bodily eating and drinking, are the chief thing in the Sacrament; and he that believes these words has what they say and express, namely, the forgiveness of sins.",
+		"Who, then, recieves such Sacrament worthily?": "Fasting and bodily preparation are indeed a fine outward training; but he is truly worthy and well prepared who has faith in these words, 'Given and shed for you for the remission of sins'. But he that does not believe these words, or doubts, is unworthy and unprepared; for the words 'for you' require all hearts to believe."
+	 }
+}
