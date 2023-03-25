@@ -55,7 +55,12 @@ Q: Return to the menu""")
 
 if __name__ == "__main__":
     if len(sys.argv) == 2:
-        MENU_OPTIONS = json.load(open(sys.argv[1]))
-        menu(MENU_OPTIONS)
+        try:
+            MENU_OPTIONS = json.load(open(sys.argv[1]))
+            menu(MENU_OPTIONS)
+        except json.decoder.JSONDecodeError:
+            print("Error: expected valid JSON file, recieved otherwise")
     else:
-        print("Error: Exactly one argument expected")
+        print("""Learneth
+
+usage: learneth file.json""")
