@@ -56,11 +56,16 @@ Q: Return to the menu""")
 if __name__ == "__main__":
     if len(sys.argv) == 2:
         try:
-            MENU_OPTIONS = json.load(open(sys.argv[1]))
-            menu(MENU_OPTIONS)
-        except json.decoder.JSONDecodeError:
-            print("Error: expected valid JSON file, recieved otherwise")
+            try:
+                MENU_OPTIONS = json.load(open(sys.argv[1]))
+                menu(MENU_OPTIONS)
+                sys.exit()
+            except IsADirectoryError:
+                print("Error: expected valid JSON file, recieved directory")
+            except json.decoder.JSONDecodeError:
+                print("Error: expected valid JSON file, recieved otherwise")
+        except Exception:
+            print("Unhandled exception occurred!")
+        
     else:
-        print("""Learneth
-
-usage: learneth file.json""")
+        print("Error: Exactly one argument expected")
